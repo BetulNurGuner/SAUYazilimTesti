@@ -1,0 +1,9 @@
+﻿  Oyun.cpp
+C:\Users\admin\Desktop\YazilimTesti\Odev2\Odev2\Oyun.cpp(35,13): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\admin\Desktop\YazilimTesti\Odev2\Odev2\Oyun.cpp(38,77): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\admin\Desktop\YazilimTesti\Odev2\Odev2\Oyun.cpp(47,63): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\admin\Desktop\YazilimTesti\Odev2\Odev2\Oyun.cpp(136,22): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\admin\Desktop\YazilimTesti\Odev2\Odev2\Oyun.cpp(137,17): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\admin\Desktop\YazilimTesti\Odev2\Odev2\Oyun.cpp(145,22): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\admin\Desktop\YazilimTesti\Odev2\Odev2\Oyun.cpp(146,17): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Odev2.vcxproj -> C:\Users\admin\Desktop\YazilimTesti\Odev2\Debug\Odev2.exe
